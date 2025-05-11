@@ -52,7 +52,7 @@
     "type": "image",
     "image_url": "https://i.ibb.co/pBbYXMyF/Titanic.png",
     "question": "Which movie is this scene from?",
-    "options": ["Titanic", "The Notebook", "Romeo + Juliet", "Pearl Harbor"],
+    "options": ["Titanic", "The Notebook", "Romeo and Juliet", "Pearl Harbor"],
     "correct": "Titanic"
   },
   {
@@ -65,7 +65,7 @@
   {
     "type": "quote",
     "character": "arlequine",
-    "quote": "I'm going to make him an offer he can't refuse.",
+    "quote": "I'm going to make him an offer he cant refuse.",
     "options": ["The Godfather", "Goodfellas", "Casino", "Scarface"],
     "correct": "The Godfather"
   },
