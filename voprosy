@@ -68,5 +68,149 @@
     "quote": "I'm going to make him an offer he can't refuse.",
     "options": ["The Godfather", "Goodfellas", "Casino", "Scarface"],
     "correct": "The Godfather"
+  },
+
+  // Level 2
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/x8sGbhFp/No-Countryfor-Old-Men.png",
+    "question": "Which movie is this scene from?",
+    "options": ["No Country for Old Men", "The Road", "Fargo", "Sicario"],
+    "correct": "No Country for Old Men"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/bjy87qBd/Shutter-Island.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Shutter Island", "Gone Girl", "Zodiac", "The Girl with the Dragon Tattoo"],
+    "correct": "Shutter Island"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/tTxmMY13/Memento.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Memento", "Tenet", "Looper", "The Prestige"],
+    "correct": "Memento"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/zHJ4Pmkb/Requiemfora-Dream.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Requiem for a Dream", "Black Swan", "The Whale", "Joker"],
+    "correct": "Requiem for a Dream"
+  },
+  {
+    "type": "quote",
+    "character": "arlequine",
+    "quote": "You either die a hero, or you live long enough to see yourself become the villain.",
+    "options": ["The Dark Knight", "Watchmen", "Iron Man", "Logan"],
+    "correct": "The Dark Knight"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/B2L0X8s0/Donnie-Darko.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Donnie Darko", "The Butterfly Effect", "The Sixth Sense", "Split"],
+    "correct": "Donnie Darko"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/rGHfjWPJ/Prisoners.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Prisoners", "Enemy", "The Guilty", "Wind River"],
+    "correct": "Prisoners"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/zV6Y2BKt/Whiplash.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Whiplash", "The Social Network", "La La Land", "The Imitation Game"],
+    "correct": "Whiplash"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/GfXSMbST/Drive.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Drive", "Baby Driver", "Nightcrawler", "Collateral"],
+    "correct": "Drive"
+  },
+  {
+    "type": "quote",
+    "character": "arlequine",
+    "quote": "The greatest trick the Devil ever pulled was convincing the world he didn’t exist.",
+    "options": ["The Usual Suspects", "Se7en", "American History X", "The Departed"],
+    "correct": "The Usual Suspects"
+  },
+
+  // Level 3
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/5g69hJ1x/Pan-Labyrinth.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Pan's Labyrinth", "The Shape of Water", "Crimson Peak", "The Others"],
+    "correct": "Pan's Labyrinth"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/Y44bxp0V/Ex-Machina.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Ex Machina", "Blade Runner 2049", "Her", "I, Robot"],
+    "correct": "Ex Machina"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/wNmZ80WG/Arrival.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Arrival", "Interstellar", "Contact", "Ad Astra"],
+    "correct": "Arrival"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/xS2HJDTw/The-Revenant.png",
+    "question": "Which movie is this scene from?",
+    "options": ["The Revenant", "The Hateful Eight", "Django Unchained", "The Power of the Dog"],
+    "correct": "The Revenant"
+  },
+  {
+    "type": "quote",
+    "character": "arlequine",
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "options": ["The Silence of the Lambs", "Hannibal", "Se7en", "American Psycho"],
+    "correct": "The Silence of the Lambs"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/6cryJTdD/The-Grand-Budapest-Hotel.png",
+    "question": "Which movie is this scene from?",
+    "options": ["The Grand Budapest Hotel", "Moonrise Kingdom", "The French Dispatch", "Isle of Dogs"],
+    "correct": "The Grand Budapest Hotel"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/s9q7HMVC/The-Lighthouse.png",
+    "question": "Which movie is this scene from?",
+    "options": ["The Lighthouse", "The Northman", "Midsommar", "The Witch"],
+    "correct": "The Lighthouse"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/LDR9zHV8/Joker.png",
+    "question": "Which movie is this scene from?",
+    "options": ["Joker", "The Batman", "Nightcrawler", "The Machinist"],
+    "correct": "Joker"
+  },
+  {
+    "type": "image",
+    "image_url": "https://i.ibb.co/dzJPPQL/nini.png",
+    "question": "Which movie is this scene from?",
+    "options": ["1917", "Dunkirk", "Saving Private Ryan", "Fury"],
+    "correct": "1917"
+  },
+  {
+    "type": "quote",
+    "character": "arlequine",
+    "quote": "That’s what I love about these high school girls, man. I get older, they stay the same age.",
+    "options": ["Dazed and Confused", "Superbad", "American Pie", "Project X"],
+    "correct": "Dazed and Confused"
   }
 ]
