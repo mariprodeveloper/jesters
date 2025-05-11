@@ -205,7 +205,7 @@
   {
     "type": "quote",
     "character": "arlequine",
-    "quote": "That’s what I love about these high school girls, man. I get older, they stay the same age.",
+    "quote": "Thats what I love about these high school girls, man. I get older, they stay the same age.",
     "options": ["Dazed and Confused", "Superbad", "American Pie", "Project X"],
     "correct": "Dazed and Confused"
   }
