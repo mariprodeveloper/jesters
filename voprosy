@@ -135,7 +135,7 @@
   {
     "type": "quote",
     "character": "arlequine",
-    "quote": "The greatest trick the Devil ever pulled was convincing the world he didn’t exist.",
+    "quote": "The greatest trick the Devil ever pulled was convincing the world he didnt exist.",
     "options": ["The Usual Suspects", "Se7en", "American History X", "The Departed"],
     "correct": "The Usual Suspects"
   },
