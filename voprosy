@@ -69,8 +69,6 @@
     "options": ["The Godfather", "Goodfellas", "Casino", "Scarface"],
     "correct": "The Godfather"
   },
-
-  // Level 2
   {
     "type": "image",
     "image_url": "https://i.ibb.co/x8sGbhFp/No-Countryfor-Old-Men.png",
@@ -141,8 +139,6 @@
     "options": ["The Usual Suspects", "Se7en", "American History X", "The Departed"],
     "correct": "The Usual Suspects"
   },
-
-  // Level 3
   {
     "type": "image",
     "image_url": "https://i.ibb.co/5g69hJ1x/Pan-Labyrinth.png",
