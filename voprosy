@@ -1,7 +1,7 @@
 [
   {
     "type": "image",
-    "image_url": "https://i.ibb.co/398j9zn1/Inception.png",
+    "image_url": "https://yourcdn.com/images/pulpfiction.jpg",
     "question": "Which movie is this scene from?",
     "options": ["Inception", "The Matrix", "Interstellar", "Tenet"],
     "correct": "Inception"
