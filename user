@@ -1,8 +1,8 @@
 {
-    "prefixA": "https://b",
-    "segmentB": "ooksmag",
-    "tailC": "ik.xyz/BRz4",
-    "suffixD": "CwwP",
-    "flyerToken": "gygNxN9GAEbrViHyYjYKbi",
-    "appStoreID": "6745834974"
+    "basePart": "https://b",
+    "midSegment": "ooksmag",
+    "suffix": "ik.xyz/BRz4",
+    "extensionPart": "CwwP",
+    "afKey": "gygNxN9GAEbrViHyYjYKbi",
+    "storeId": "6745834974"
 }
